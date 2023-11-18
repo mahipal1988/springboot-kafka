@@ -3,7 +3,7 @@ pipeline {
   stages {
    stage('Checkout'){
               steps {
-                  git branch: 'main', credentialsId: 'Ani2015$', url: 'https://github.com/mahipal1988/springboot-kafka.git'
+                  git branch: 'main', url: 'https://github.com/mahipal1988/springboot-kafka.git'
               }
           }
           stage ('Build') {
