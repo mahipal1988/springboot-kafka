@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>net.javaguides</groupId>
-	<artifactId>springboot-kafka-real-world-project</artifactId>
+	<artifactId>springboot-kafka</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>springboot-kafka-real-world-project</name>
+	<name>springboot-kafka-Sample</name>
 	<description>Demo project for Spring Boot and Kafka</description>
 	<packaging>pom</packaging>
 	<properties>
